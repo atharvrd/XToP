@@ -1,4 +1,4 @@
-# XtoP - Smart Excel to PowerPoint Report Generator
+# XtoP - Smart Excel to PowerPoint Report Generator. 
 
 ## Overview
 
